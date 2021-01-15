@@ -1,6 +1,8 @@
-# CatPiano
+# TechnoKit 
 
-Project under development!
+Project under development
+
+Demo: https://youtu.be/oIsvJruVyg4
 
 ## How to prepare
 
@@ -53,15 +55,12 @@ Free techno samples:
 https://www.musicradar.com/news/tech/sampleradar-503-free-techno-samples-218884
 
 
-## To Do List
-
+## Ideas
 
 - [ ] Record on the spot
 
 - [ ] Loop recorded track
 
-- [ ] Equalizer
+- [ ] Effets (e.g. equalizer, wahwah)
 
-- [ ] All kinds of other effects wahwah and whatnot
-
-- [ ] "Short sounds" of two types: ones that can be played at the same time, and ones that cut the previous sound (only 2 is implemented)
+- [ ] "Short sounds" of two types: ones that can be played at the same time, and ones that cut the previous sound (only type 2 is implemented)
